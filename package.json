@@ -1,6 +1,6 @@
 {
   "name": "wantcms",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "The Ultimate Javascript Full Stack Framework",
   "repository": {
     "type": "git",
@@ -25,7 +25,7 @@
     "eslint-plugin-vuefix": "^0.2.1"
   },
   "dependencies": {
-    "wantcms-front": "^6.1.3",
+    "wantcms-frontend": "^1.0.1",
     "egg-born-front": "^6.1.3",
     "egg-born-backend": "^4.0.7",
     "egg-born-bin": "^2.0.2",
