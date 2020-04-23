@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
   "name": "wantcms",
-  "version": "1.0.5",
-=======
-  "name": "cabloy",
-  "version": "3.1.0-beta.8",
->>>>>>> upsteam/master
+  "version": "1.0.6",
   "description": "The Ultimate Javascript Full Stack Framework",
   "repository": {
     "type": "git",
@@ -30,7 +25,7 @@
     "eslint-plugin-vuefix": "^0.2.1"
   },
   "dependencies": {
-    "wantcms-frontend": "^1.0.2",
+    "wantcms-frontend": "^1.0.1",
     "egg-born-front": "^6.1.7",
     "egg-born-backend": "^4.0.9",
     "egg-born-bin": "^2.0.2",
