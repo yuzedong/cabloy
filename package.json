@@ -1,6 +1,6 @@
 {
   "name": "wantcms",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The Ultimate Javascript Full Stack Framework",
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "wantcms-frontend": "^1.0.1",
+    "egg-born-frontend": "^1.0.1",
     "egg-born-front": "^6.1.7",
     "egg-born-backend": "^4.0.9",
     "egg-born-bin": "^2.0.2",
