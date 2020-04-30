@@ -1,6 +1,6 @@
 {
   "name": "wantcms",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The Ultimate Javascript Full Stack Framework",
   "repository": {
     "type": "git",
@@ -25,9 +25,9 @@
     "eslint-plugin-vuefix": "^0.2.1"
   },
   "dependencies": {
-    "wantcms-frontend": "^1.0.1",
-    "egg-born-frontend": "^1.0.1",
-    "egg-born-front": "^6.1.7",
+    "wantcms-frontend": "^1.0.2",
+    "egg-born-frontend": "^1.0.2",
+    "egg-born-front": "^6.1.8",
     "egg-born-backend": "^4.0.9",
     "egg-born-bin": "^2.0.2",
     "egg-born-scripts": "^2.0.1",
@@ -40,7 +40,7 @@
     "egg-born-module-a-captcha": "^3.0.2",
     "egg-born-module-a-captchasimple": "^3.0.2",
     "egg-born-module-a-chartjs": "^3.0.1",
-    "egg-born-module-a-components-sync": "^3.0.22",
+    "egg-born-module-a-components-sync": "^3.0.23",
     "egg-born-module-a-dashboard": "^3.0.1",
     "egg-born-module-a-event": "^3.0.3",
     "egg-born-module-a-file": "^3.0.4",
@@ -48,7 +48,7 @@
     "egg-born-module-a-index": "^3.0.2",
     "egg-born-module-a-instance": "^3.0.3",
     "egg-born-module-a-layoutmobile": "^3.0.8",
-    "egg-born-module-a-layoutpc": "^3.0.11",
+    "egg-born-module-a-layoutpc": "^3.0.12",
     "egg-born-module-a-login": "^3.0.3",
     "egg-born-module-a-mail": "^3.0.2",
     "egg-born-module-a-markdownstyle": "^3.0.5",

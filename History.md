@@ -14,15 +14,16 @@
   * [Module Monkey](https://cabloy.com/articles/module-monkey.html): Easy to replace some functionalities of modules just like a monkey🐒
 
 * **features - frontend **
-  * Theme: Docs to be done
+  * [Theme](https://cabloy.com/articles/theme.html)
   * [Adaptive Layout](https://cabloy.com/articles/013d5e01ae5a40ae90a536d2cafd50cd.html)
   * [Scene Config & Scene Build](https://cabloy.com/articles/config-front.html)
-  * Drag Drop: Docs to be done
+  * [Dragdrop: Move](https://cabloy.com/articles/dragdrop-move.html)
+  * [Dragdrop: Resize](https://cabloy.com/articles/dragdrop-resize.html)
 
 * **features - modules **
-  * CMS Block: Docs to be done
-  * Dashboard: Docs to be done
-  * Layout PC: Docs to be done
+  * [CMS Block](https://cabloy.com/zh-cn/articles/0c81b4e499a04fc5b358a5ba63c0b2e0.html)
+  * [Dashboard](https://cabloy.com/articles/e6848b3c477b4807b78986e1e0342717.html)
+  * [Layout PC](https://cabloy.com/articles/8635ddb9fba041778ef3621f257e1da4.html)
 
 ## 2020-02-14, Version 3.0.0-beta.4
 
